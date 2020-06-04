@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\HW_5\DivbyZero\bin\Debug\DivbyZero.exe.config
+C:\Users\acer\source\repos\HW_5\DivbyZero\bin\Debug\DivbyZero.exe
+C:\Users\acer\source\repos\HW_5\DivbyZero\bin\Debug\DivbyZero.pdb
+C:\Users\acer\source\repos\HW_5\DivbyZero\obj\Debug\DivbyZero.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\HW_5\DivbyZero\obj\Debug\DivbyZero.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\HW_5\DivbyZero\obj\Debug\DivbyZero.exe
+C:\Users\acer\source\repos\HW_5\DivbyZero\obj\Debug\DivbyZero.pdb
